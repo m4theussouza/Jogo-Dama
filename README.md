@@ -1,1 +1,1 @@
-# Jogo-Dama
+# Jogo da Dama em C.
